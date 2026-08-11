@@ -1,6 +1,6 @@
 # 🌤️ Real-Time Weather Information App
 
-![Java](https://img.shields.io/badge/Java-11%2B-blue.svg)
+![Java](https://img.shields.io/badge/Java-11%2B-blue.svg) 
 ![GUI](https://img.shields.io/badge/GUI-Java%20Swing-orange.svg)
 ![API](https://img.shields.io/badge/API-OpenWeatherMap-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
